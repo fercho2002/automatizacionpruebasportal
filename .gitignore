@@ -1,0 +1,4 @@
+# Default ignored files
+/.idea/shelf/
+/target/
+/src/test/java/runner/Testrunner.java
